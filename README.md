@@ -4,7 +4,7 @@
 
 [CosmWasm Checklist](https://github.com/oak-security/resources/blob/main/checklists/CosmWasm%20Smart%20Contract%20Audit%20Checklist.pdf)
 
-[Ethereum Checklist](https://github.com/oak-security/resources/blob/main/checklists/CosmWasm%20Smart%20Contract%20Audit%20Checklist.pdf)
+[Ethereum Checklist](https://github.com/oak-security/resources/blob/main/checklists/Ethereum%20Smart%20Contract%20Audit%20Checklist.pdf)
 
 ## Relevant Links
 
