@@ -10,5 +10,6 @@
 
 [Introduction into Smart Contract Audits Podcast Episode](https://theaccountantquits.com/podcast/episode-3-stefan-beyer-on-smart-contract-audits/). An episode of "The Accountant Quits" podcast, in which one of of our managing partners explains smart contract audits in non-technical language.
 
-
 [Smart Contract Security - Best Practice Guidelines](https://github.com/oak-security/resources/blob/main/docs/Smart%20Contract%20Security.pdf). A short presentation on general guidelines for writing secure smart contracts. 
+
+[Terra Sapcecamp Talk - Security Best Practices](https://www.youtube.com/watch?v=a9ScoOIXxXc). Recording on a talk at the August 2021 Terra Spacecamp on CosmWasm security. 
