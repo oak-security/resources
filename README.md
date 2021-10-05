@@ -13,3 +13,6 @@
 [Smart Contract Security - Best Practice Guidelines](https://github.com/oak-security/resources/blob/main/docs/Smart%20Contract%20Security.pdf). A short presentation on general guidelines for writing secure smart contracts. 
 
 [Terra Sapcecamp Talk - Security Best Practices](https://www.youtube.com/watch?v=a9ScoOIXxXc). Recording on a talk at the August 2021 Terra Spacecamp on CosmWasm security. 
+
+## Operational Security
+[Personal Security for Blockchain Developers](https://github.com/oak-security/resources/blob/main/docs/Personal%20Security%20Guidelines%20for%20Blockchain%20developers.pdf). A list of recommendations for a secure setup of a blockchain developer's workstation. 
