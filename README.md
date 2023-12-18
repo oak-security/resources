@@ -9,7 +9,7 @@ For the reader’s convenience, resources have been classified into different ca
 
 📄 [Our unique multi-layered approach to security audits](https://medium.com/oak-security/there-is-no-perfect-methodology-our-unique-multi-layered-approach-to-security-audits-15e6a9fc7c0f).
 
-📄 [What is an audit?](https://youtu.be/Z-uFw4qhFR0) - Oak Security YouTube channel.
+📄 [What is an audit?](https://youtu.be/Z-uFw4qhFR0) - **Oak Security** YouTube channel.
 
 **How to prepare** for a security audit?
 - 🎬 [Oak Security YouTube channel, 2023](https://youtu.be/uC_s2vtnsKk).
@@ -23,22 +23,22 @@ For the reader’s convenience, resources have been classified into different ca
 
 ✅ [Personal Security for Blockchain Developers](https://github.com/oak-security/resources/blob/main/docs/Personal%20Security%20Guidelines%20for%20Blockchain%20developers.pdf): compendium of recommendations for a secure setup of a blockchain developer's workstation.
 
-📄 [Exploring the Evolving Landscape of Web3 Security](https://www.linkedin.com/pulse/exploring-evolving-landscape-web3-security-stefan-beyer/)  with Stefan Beyer.
+📄 [Exploring the Evolving Landscape of Web3 Security](https://www.linkedin.com/pulse/exploring-evolving-landscape-web3-security-stefan-beyer/)  with **Stefan Beyer**.
 
-🎬 [The Confusing World of Smart Contract Security](https://www.youtube.com/watch?v=iPFZcsQ2Jeg&t=1835s) with Stefan Beyer at ETH Barcelona 2023.
+🎬 [The Confusing World of Smart Contract Security](https://www.youtube.com/watch?v=iPFZcsQ2Jeg&t=1835s) with Stefan Beyer at **ETH Barcelona 2023**.
 
-🎬 [The Sorry State of DeFi Security](https://youtu.be/w7M0e1hg0FE) - Oak Security YouTube channel.
+🎬 [The Sorry State of DeFi Security](https://youtu.be/w7M0e1hg0FE) - **Oak Security** YouTube channel.
 
-🎬 [Blockchain Bridges, Hacks, and Security](https://youtu.be/grmzAU1Ae4Q) - Oak Security YouTube channel.
+🎬 [Blockchain Bridges, Hacks, and Security](https://youtu.be/grmzAU1Ae4Q) - **Oak Security** YouTube channel.
 
 🎬 [Security Best Practices](https://www.youtube.com/watch?v=a9ScoOIXxXc).
 - [Slides](https://github.com/oak-security/resources/blob/main/docs/Smart%20Contract%20Security.pdf).
 
-🎧 [BlockHash Podcast](https://www.youtube.com/watch?v=CYbaC6ioyAY) with Stefan Beyer.
+🎧 [BlockHash Podcast](https://www.youtube.com/watch?v=CYbaC6ioyAY) with **Stefan Beyer**.
 
-🎧 [BlockHash Podcast EP. 272](https://www.youtube.com/watch?v=q3r4IDfENzM) with Eduard Kotysh, founder of Solidified.
+🎧 [BlockHash Podcast EP. 272](https://www.youtube.com/watch?v=q3r4IDfENzM) with **Eduard Kotysh**, founder of Solidified.
 
-🎧 [The Accountant Quits Podcast: Introduction to Smart Contract Audits](https://www.theaccountantquits.com/podcast/on-smart-contract-audits) with Stefan Beyer.
+🎧 [The Accountant Quits Podcast: Introduction to Smart Contract Audits](https://www.theaccountantquits.com/podcast/on-smart-contract-audits) with **Stefan Beyer**.
 
 
 ## Solidity/EVM
@@ -57,11 +57,11 @@ Deep dive into the main **components of ERC-4337**: Account Abstraction Using Al
 
 ✅ [CosmWasm audit checklist](https://github.com/oak-security/resources/blob/main/checklists/CosmWasm%20Smart%20Contract%20Audit%20Checklist.pdf).
 
-🎬 [Learnings from 100+ CosmWasm Audits](https://www.youtube.com/watch?v=9rOjEnolxWQ) with Philip Stanislaus at  AwesomWasm 2023.
+🎬 [Learnings from 100+ CosmWasm Audits](https://www.youtube.com/watch?v=9rOjEnolxWQ) with **Philip Stanislaus** at **AwesomWasm 2023**.
 
-🎬 [Panel on CosmWasm Security](https://youtu.be/VNwoLZZSoYs?feature=shared&t=8415) with the participation of Philip Stanislaus at AwesomWasm 2023.
+🎬 [Panel on CosmWasm Security](https://youtu.be/VNwoLZZSoYs?feature=shared&t=8415) with the participation of **Philip Stanislaus** at **AwesomWasm 2023**.
 
-Oak Security **Capture The Flag** (CTF) - AwesomWasm 2023:
+Oak Security **Capture The Flag** (CTF) - **AwesomWasm 2023**:
 - 🎬 [Online Event Kick-off](https://youtube.com/live/YIb3UsLxlbQ)
 - 📄 [Solution️ writeups Pt. 1](https://medium.com/oak-security/capture-the-flag-%EF%B8%8Fwriteups-awesomwasm-2023-pt-1-a40c6e506b49).
 - 📄 [Solution️ writeups Pt. 2](https://medium.com/oak-security/capture-the-flag-%EF%B8%8Fwriteups-awesomwasm-2023-pt-2-cb3e9b297c0).
