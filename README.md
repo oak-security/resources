@@ -71,6 +71,10 @@ CosmWasm **security spotlight** series:
 - 📄 [#2 Access controls](https://medium.com/oak-security/cosmwasm-security-spotlight-2-3b8abeb066a1).
 - 📄 [#3 Address validation and normalization](https://medium.com/oak-security/cosmwasm-security-spotlight-3-2b11f36fd61).
 
+Analysis of **Cosmos SDK vulnerabilities**:
+- [ICS audit's critical issue 1](https://twitter.com/SecurityOak/status/1734140573626630256)
+- [ICS audit's critical issue 2](https://twitter.com/SecurityOak/status/1734140573626630256)
+
 
 ## Insights From Incidents
 
