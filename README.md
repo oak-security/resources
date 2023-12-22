@@ -72,8 +72,10 @@ CosmWasm **security spotlight** series:
 - 📄 [#3 Address validation and normalization](https://medium.com/oak-security/cosmwasm-security-spotlight-3-2b11f36fd61).
 
 Analysis of **Cosmos SDK vulnerabilities**:
-- [ICS audit's critical issue 1](https://twitter.com/SecurityOak/status/1734140573626630256)
-- [ICS audit's critical issue 2](https://twitter.com/SecurityOak/status/1734140573626630256)
+- 📄 [ICS audit's critical issue 1](https://twitter.com/SecurityOak/status/1734140573626630256)
+- 📄 [ICS audit's critical issue 2](https://twitter.com/SecurityOak/status/1734140573626630256)
+- 📄 [Noble Tariff critical issue 1](https://twitter.com/SecurityOak/status/1737395780409864533)
+- 📄 [Noble Tariff critical issue 2](https://twitter.com/SecurityOak/status/1738129503967162571)
 
 
 ## Insights From Incidents
