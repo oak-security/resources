@@ -53,8 +53,8 @@ Deep dive into the main **components of ERC-4337**: Account Abstraction Using Al
 - 📄 [Part 3](https://medium.com/oak-security/a-deep-dive-into-the-main-components-of-erc-4337-account-abstraction-using-alt-mempool-part-3-6d721ff45f5f).
 - 📄 [Part 4](https://medium.com/oak-security/a-deep-dive-into-the-main-components-of-erc-4337-account-abstraction-using-alt-mempool-part-4-ab7dacbf64d4).
 
-Analysis of Solidity/EVM smart contract vulnerabilities:
-- 📄 [Ether.fi critical vulnerability](https://twitter.com/SolidifiedHQ/status/1749382946014826496)
+Analysis of **Solidity/EVM smart contract vulnerabilities**:
+- 📄 [Ether.fi critical issue](https://twitter.com/SolidifiedHQ/status/1749382946014826496)
 
 ## Cosmos SDK/CosmWasm
 
