@@ -51,7 +51,10 @@ Deep dive into the main **components of ERC-4337**: Account Abstraction Using Al
 - 📄 [Part 1](https://medium.com/oak-security/a-deep-dive-into-the-main-components-of-erc-4337-account-abstraction-using-alt-mempool-part-1-3a1ed1bd3a9b).
 - 📄 [Part 2](https://medium.com/oak-security/a-deep-dive-into-the-main-components-of-erc-4337-account-abstraction-using-alt-mempool-part-2-0c62617d9ebe).
 - 📄 [Part 3](https://medium.com/oak-security/a-deep-dive-into-the-main-components-of-erc-4337-account-abstraction-using-alt-mempool-part-3-6d721ff45f5f).
+- 📄 [Part 4](https://medium.com/oak-security/a-deep-dive-into-the-main-components-of-erc-4337-account-abstraction-using-alt-mempool-part-4-ab7dacbf64d4).
 
+Analysis of Solidity/EVM smart contract vulnerabilities:
+- 📄 [Ether.fi critical vulnerability](https://twitter.com/SolidifiedHQ/status/1749382946014826496)
 
 ## Cosmos SDK/CosmWasm
 
@@ -70,12 +73,15 @@ CosmWasm **security spotlight** series:
 - 📄 [#1 Unsaved storage changes](https://medium.com/oak-security/cosmwasm-security-spotlight-1-cba294b27ea2).
 - 📄 [#2 Access controls](https://medium.com/oak-security/cosmwasm-security-spotlight-2-3b8abeb066a1).
 - 📄 [#3 Address validation and normalization](https://medium.com/oak-security/cosmwasm-security-spotlight-3-2b11f36fd61).
+- 📄 [#4 Rounding issues](https://medium.com/oak-security/cosmwasm-security-spotlight-4-b5ba69b96c5f)
 
 Analysis of **Cosmos SDK vulnerabilities**:
 - 📄 [ICS audit's critical issue 1](https://twitter.com/SecurityOak/status/1734140573626630256)
 - 📄 [ICS audit's critical issue 2](https://twitter.com/SecurityOak/status/1734140573626630256)
 - 📄 [Noble Tariff critical issue 1](https://twitter.com/SecurityOak/status/1737395780409864533)
 - 📄 [Noble Tariff critical issue 2](https://twitter.com/SecurityOak/status/1738129503967162571)
+- 📄 [Fairblock critical issue 1](https://twitter.com/SecurityOak/status/1760583906108088518)
+- 📄 [Fairblock critical issue 2](https://twitter.com/SecurityOak/status/1760583906108088518)
 
 
 ## Insights From Incidents
