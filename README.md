@@ -53,7 +53,7 @@ Deep dive into the main **components of ERC-4337**: Account Abstraction Using Al
 - 📄 [Part 3](https://medium.com/oak-security/a-deep-dive-into-the-main-components-of-erc-4337-account-abstraction-using-alt-mempool-part-3-6d721ff45f5f).
 - 📄 [Part 4](https://medium.com/oak-security/a-deep-dive-into-the-main-components-of-erc-4337-account-abstraction-using-alt-mempool-part-4-ab7dacbf64d4).
 
-Analysis of **Solidity/EVM smart contract vulnerabilities**:
+Analysis of **Solidity/EVM vulnerabilities** from our audits:
 - 📄 [Ether.fi critical issue](https://twitter.com/SolidifiedHQ/status/1749382946014826496)
 
 ## Cosmos SDK/CosmWasm
@@ -75,7 +75,10 @@ CosmWasm **security spotlight** series:
 - 📄 [#3 Address validation and normalization](https://medium.com/oak-security/cosmwasm-security-spotlight-3-2b11f36fd61).
 - 📄 [#4 Rounding issues](https://medium.com/oak-security/cosmwasm-security-spotlight-4-b5ba69b96c5f)
 
-Analysis of **Cosmos SDK vulnerabilities**:
+Analysis of **CosmWasm vulnerabilities** from our audits:
+- 📄 [Astroport Incentives](https://twitter.com/SecurityOak/status/1763592602429919341)
+
+Analysis of **Cosmos SDK vulnerabilities** from our audits:
 - 📄 [ICS audit's critical issue 1](https://twitter.com/SecurityOak/status/1734140573626630256)
 - 📄 [ICS audit's critical issue 2](https://twitter.com/SecurityOak/status/1734140573626630256)
 - 📄 [Noble Tariff critical issue 1](https://twitter.com/SecurityOak/status/1737395780409864533)
