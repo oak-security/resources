@@ -77,6 +77,7 @@ CosmWasm **security spotlight** series:
 
 Analysis of **CosmWasm vulnerabilities** from our audits:
 - 📄 [Astroport Incentives](https://twitter.com/SecurityOak/status/1763592602429919341)
+- 📄 [Astroport transmuter pool](https://twitter.com/SecurityOak/status/1788893107506827716)
 
 Analysis of **Cosmos SDK vulnerabilities** from our audits:
 - 📄 [ICS audit's critical issue 1](https://twitter.com/SecurityOak/status/1734140573626630256)
